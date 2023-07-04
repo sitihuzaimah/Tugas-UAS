@@ -1,2 +1,2 @@
 # Tugas-UAS
-Syarat untuk memenuhi mata kuliah mobile programming
+Syarat untuk memenuhi nilai mata kuliah mobile programming
